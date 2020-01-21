@@ -44,5 +44,5 @@ kubectl get services
 
 - Run service
 ```
-minikube service hello-node
+minikube service hello-php
 ```
